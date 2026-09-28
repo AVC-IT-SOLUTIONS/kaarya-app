@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="assets/brand/kaarya-icon-1024.png" alt="Kaarya icon" width="120">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/brand/kaarya-wordmark-white.png">
+    <img src="assets/brand/kaarya-wordmark.png" alt="Kaarya" width="280">
+  </picture>
+</p>
+
 # Kaarya
 
 ![Status](https://img.shields.io/badge/status-in%20development-orange)
